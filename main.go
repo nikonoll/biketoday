@@ -43,9 +43,9 @@ func main() {
 		}
 		// geovalide adresses
 
-		// call forecast.io on city
+		// call forecast.io on citiiy
 
-		// display weather with wego?
+		// display weather with wegoii?
 
 		// call maps api for distance and travel time
 
